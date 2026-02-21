@@ -30,7 +30,7 @@ Ruby operates on a modular architecture where a central mainframe orchestrates i
 1.  **Clone the Repository**
     ```bash
     git clone <repository-url>
-    cd ruby
+    cd rubybot
     ```
 
 2.  **Install Dependencies**
