@@ -45,14 +45,14 @@ Ruby operates on a modular architecture where a central mainframe orchestrates i
     ```
 3.  **Configure Environment Variables**
     Create a `.env` file in the root directory
-```bash
+```
 touch .env
 ```
-    and add the following keys inside .env:
-    ```ini
-    OPENAI_API_KEY=your_openai_api_key_here
-    GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/google_credentials.json
-    ```
+    and add the following keys inside .env
+  ```ini
+  OPENAI_API_KEY=your_openai_api_key_here
+  GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/google_credentials.json
+  ```
     *Note: Ensure you have the Google Cloud JSON key file saved locally and referenced correctly.*
 
 ## Usage Guide 
